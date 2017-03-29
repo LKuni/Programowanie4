@@ -1,0 +1,5 @@
+G:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.2\zad4.2\bin\Debug\zad4.2.exe.config
+G:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.2\zad4.2\bin\Debug\zad4.2.exe
+G:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.2\zad4.2\bin\Debug\zad4.2.pdb
+G:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.2\zad4.2\obj\Debug\zad4.2.exe
+G:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.2\zad4.2\obj\Debug\zad4.2.pdb

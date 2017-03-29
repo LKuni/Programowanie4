@@ -1,0 +1,7 @@
+G:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.3\zad4.3\bin\Debug\zad4.3.exe.config
+F:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.3\zad4.3\bin\Debug\zad4.3.exe.config
+F:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.3\zad4.3\obj\Debug\zad4.3.csprojResolveAssemblyReference.cache
+F:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.3\zad4.3\bin\Debug\zad4.3.exe
+F:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.3\zad4.3\bin\Debug\zad4.3.pdb
+F:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.3\zad4.3\obj\Debug\zad4.3.exe
+F:\Magisterka\Zaawansowane programowanie obiektowe\zaj4\zad4.3\zad4.3\obj\Debug\zad4.3.pdb
